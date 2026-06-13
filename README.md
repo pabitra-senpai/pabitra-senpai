@@ -1,49 +1,73 @@
-# ⚡ Hello World, I'm Pabitra Dolai! 👋
+# 👋 Hey, I'm Pabitra Senpai
 
-<p align="center">
-  <a href="https://github.com/pabitra-senpai">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=27E16D&center=true&vCenter=true&width=435&lines=Anime+Enthusiast+⛩️;Cloud+%26+Backend+Explorer+☁️;Telegram+Bot+Developer+🤖" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <em>"If you don't like your destiny, don't accept it. Instead, have the courage to change it!" — Naruto Uzumaki 🦊</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Anime+Fan+Dubber;Video+Editor;Web+Developer;GitHub+Pages+Creator;Founder+of+Anidubflix" alt="Typing SVG" />
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-I am a backend-focused developer passionate about building automation tools, smart Telegram bots, and web applications. Currently, I'm deep-diving into advanced web architectures and cloud deployments. 
+🎬 Anime Fan Dubber
 
-Outside of writing code, you will find me watching anime or producing Hindi fan-dubs!
+🎙️ Hindi Dub Content Creator
 
----
+💻 Web Developer
 
-### 🌀 Coding Jutsu & Stats (Power Levels)
+📱 Android User
 
-| Jutsu (Skill) | Mastery Level | Nature Class |
-| :--- | :--- | :--- |
-| **Summoning Jutsu (Telegram Bots)** | ▓▓▓▓▓▓▓▓▓░ *90%* | Space-Time / Automation |
-| **Backend Release (Node.js & JS)** | ▓▓▓▓▓▓▓▓░░ *80%* | Lightning Element |
-| **Fuinjutsu / Sealing (MongoDB)** | ▓▓▓▓▓▓▓░░░ *70%* | Earth Element |
-| **Cloud Teleportation (Render / Vercel)** | ▓▓▓▓▓▓▓░░░ *70%* | Dimensional Shift |
+🎨 Video Editor
+
+🌟 Founder of **Anidubflix**
 
 ---
 
-### 📊 GitHub Analytics
+## 🌐 My Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pabitra-senpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pabitra's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=pabitra-senpai&theme=tokyonight&hide_border=true&background=0D1117" alt="Pabitra's GitHub Streak" width="48%" />
-</p>
+### 🎥 Anidubflix
+Anime Streaming & Fan Dub Community Project
+
+- Hindi Fan Dub Anime
+- Official Hindi Dub Updates
+- Anime News
+- Community Support
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Skills
 
-<p align="center">
-  <a href="mailto:pd7205020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Pabitra-Senpai&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabitra-Senpai&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pabitra-Senpai&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- Instagram: @iam_pabitra.06
+- Telegram: @pabitra-senpai
+- GitHub: https://github.com/pabitra-senpai
+
+---
+
+### ✨ Quote
+
+> "Dream. Create. Dub. Repeat."
+
+⭐ Thanks for visiting my profile!
