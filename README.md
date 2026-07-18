@@ -1,77 +1,55 @@
 <div align="center">
 
-# Hi, I'm Pabitra 👋
+# 𝙿𝚊𝚋𝚒𝚝𝚛𝚊 👋
 
 ### Full Stack Developer • Open Source Enthusiast • Building Modern Web Experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;React+%7C+Next.js+%7C+Node.js;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;React+•+Next.js+•+Node.js;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pabitra-senpai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I'm a passionate developer who enjoys building modern web applications, developer tools, browser utilities, and scalable backend systems.
+I'm a passionate **Full Stack Developer** who enjoys building modern web applications, developer tools, and scalable backend systems with a focus on performance, clean architecture, and user experience.
 
-- Building modern web applications
-- Learning new technologies every day
-- Open Source contributor
-- Focused on clean architecture
-- Passionate about UI/UX
-- Always improving
+- 💻 Building modern web applications
+- 🚀 Passionate about Open Source
+- 📚 Learning new technologies every day
+- 🧩 Focused on clean architecture
+- 🎨 Interested in UI / UX Design
+- ⚡ Always improving and exploring new ideas
 
 ---
 
-# Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
 </p>
 
 ---
 
-# Featured Projects
-
-## ANIDUBFLIX
-
-Modern anime streaming platform built with a clean UI and scalable architecture.
-
----
-
-## NexBrowser
-
-Modern Android browser focused on productivity and performance.
-
----
-
-## Video Player Lab
-
-Advanced media player supporting multiple streaming formats.
-
----
-
-## Telegram File Share Bot
-
-Modern Telegram file sharing solution with management features.
-
----
-
-# GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -83,7 +61,7 @@ Modern Telegram file sharing solution with management features.
 
 ---
 
-# GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -93,7 +71,7 @@ Modern Telegram file sharing solution with management features.
 
 ---
 
-# Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -103,45 +81,49 @@ Modern Telegram file sharing solution with management features.
 
 ---
 
-# GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pabitra-senpai&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=pabitra-senpai&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 
 </p>
 
 ---
 
-# Visitor Count
+# 🎯 Current Focus
+
+- 🌐 Modern Web Development
+- ⚛️ React & Next.js
+- 🟢 Node.js & Backend Development
+- 🗄️ Database Design
+- 🏗️ Scalable Architecture
+- 🛠️ Developer Tools
+- 🎨 UI / UX Design
+- 🌍 Open Source Contribution
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pabitra-senpai&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pabitra-senpai&theme=github_dark" />
 
 </p>
 
 ---
 
-# Current Focus
+# 💬 Favorite Quote
 
-- Modern Web Development
-- Open Source
-- Full Stack Development
-- Backend Architecture
-- Developer Tools
-- UI / UX Design
-
----
-
-# Quote
-
-> "Code with purpose. Build with passion."
+> **"Code with purpose. Build with passion."**
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=120&section=footer"/>
 
 </div>
