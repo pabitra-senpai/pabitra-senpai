@@ -122,8 +122,10 @@ I'm a passionate **Full Stack Developer** who enjoys building modern web applica
 
 <div align="center">
 
-### Thanks for visiting my profile.
+### Thanks for stopping by 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
+**Keep Learning • Keep Building • Keep Growing**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=90&section=footer"/>
 
 </div>
