@@ -71,26 +71,6 @@ I'm a passionate **Full Stack Developer** who enjoys building modern web applica
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pabitra-senpai&theme=github-dark&hide_border=true&area=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pabitra-senpai&theme=algolia&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🌐 Modern Web Development
